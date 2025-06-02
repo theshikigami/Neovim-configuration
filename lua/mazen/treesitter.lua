@@ -10,7 +10,6 @@ function M.setup()
     ensure_installed = {
       "c",
       "cpp",
-      "java",
       "python",
       "lua", -- For Neovim config files
       "vimdoc", -- For help files
