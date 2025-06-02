@@ -13,7 +13,6 @@ function M.setup()
     ensure_installed = {
       "clangd", -- C/C++
       "pyright", -- Python
-      "jdtls", -- Java
       -- Add any other servers you need
     },
     handlers = {
